@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Analytics at <a href="https://www.comp.hkbu.edu.hk/v1/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
+<iframe src="https://giphy.com/embed/dZcsQfCXxIBii4atbm" width="480" height="374" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/plant-luck-teagif-dZcsQfCXxIBii4atbm">via GIPHY</a></p>
+
 [![Youtube: Kadessova Ayazhan](https://img.shields.io/youtube/views/HqS8TBad0gs?style=social)](https://www.youtube.com/watch?v=HqS8TBad0gs&t=253s)
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 [![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://giphy.com/embed/dZcsQfCXxIBii4atbm" width="50"> A little more about me...  
 
 ```javascript
 const Aya = {
