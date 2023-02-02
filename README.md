@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230" style="border-radius: 50%;">
 <p><em>Business Computing and Data Analytics Major at <a href="https://www.comp.hkbu.edu.hk/v1/">Hong Kong Baptist University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-<i class="fa-brands fa-youtube"></i>
+<h3>Find me here too:</h3>
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 [![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 <a href="https://www.youtube.com/channel/UC9SnJoAITiY89RGigVYTw3g"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="78">
