@@ -34,7 +34,7 @@ const Aya = {
   code: [Java, Python, HTML, CSS, Javascript],
   techCommunities: {
                         Peer Mentor: "HKBU", 
-                        Member: "Rewriting The Cod"
+                        Member: "Rewriting The Code"
                       },
  challenge: "I am doing the #30DaysOfCode challenge. Yes, again!"
 }
