@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 [![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 
-<iframe src="https://giphy.com/embed/dZcsQfCXxIBii4atbm" width="480" height="374" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/plant-luck-teagif-dZcsQfCXxIBii4atbm">via GIPHY</a></p>
-### A little more about me...  
+### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="50"> A little more about me...   
 
 ```javascript
 const Aya = {
