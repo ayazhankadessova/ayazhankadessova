@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2> Hi, I'm Ayazhan! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230" style="border-radius: 50%;">
-<p><em>Data Analytics at <a href="https://www.comp.hkbu.edu.hk/v1/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<p><em>Business Computing and Data Analytics Major at <a href="https://www.comp.hkbu.edu.hk/v1/">Hong Kong Baptist University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 [![Youtube: Kadessova Ayazhan](https://img.shields.io/youtube/views/HqS8TBad0gs?style=social)](https://www.youtube.com/watch?v=HqS8TBad0gs&t=253s)
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
