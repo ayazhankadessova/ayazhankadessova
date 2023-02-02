@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Analytics <a href="http://www.unb.br">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-[![Youtube: Kadessova Ayazhan][https://img.shields.io/youtube/views/HqS8TBad0gs?style=social](https://www.youtube.com/@ayazhankadessova330/)
+[![Youtube: Kadessova Ayazhan](https://img.shields.io/youtube/views/HqS8TBad0gs?style=social)](https://www.youtube.com/watch?v=HqS8TBad0gs&t=253s)
 [![Linkedin: ayazhankadessova](https://www.linkedin.com/in/ayazhankad/)
 <!-- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
  -->
