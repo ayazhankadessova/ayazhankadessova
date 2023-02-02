@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Ayazhan! <iframe src="https://giphy.com/embed/YnS7j9pwnECXLMrI4t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/platzi-it-code-developer-YnS7j9pwnECXLMrI4t">via GIPHY</a></p></h2>
+<h2> Hi, I'm Ayazhan! <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Analytics at <a href="https://www.comp.hkbu.edu.hk/v1/">HKBU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
