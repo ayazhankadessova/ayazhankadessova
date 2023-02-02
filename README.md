@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 
 [![Youtube: Kadessova Ayazhan](https://img.shields.io/youtube/views/HqS8TBad0gs?style=social)](https://www.youtube.com/watch?v=HqS8TBad0gs&t=253s)
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
-<p align=”center”>
-<a href="https://www.linkedin.com/in/ayazhankad/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
+[![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
