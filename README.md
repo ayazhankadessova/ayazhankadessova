@@ -39,6 +39,6 @@ const Aya = {
  challenge: "I am doing the #30DaysOfCode challenge. Yes, again!"
 }
 ```
-### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
+#### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
 
 
