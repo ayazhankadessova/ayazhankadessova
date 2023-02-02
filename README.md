@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<link rel="stylesheet" href="https://kit.fontawesome.com/eecf2e68e4.css" crossorigin="anonymous">
 <h2> Hi, I'm Ayazhan! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230" style="border-radius: 50%;">
 <p><em>Business Computing and Data Analytics Major at <a href="https://www.comp.hkbu.edu.hk/v1/">Hong Kong Baptist University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-[![Youtube: Kadessova Ayazhan](https://img.shields.io/youtube/channel/views/UC9SnJoAITiY89RGigVYTw3g?style=social)](https://www.youtube.com/watch?v=HqS8TBad0gs&t=253s)
+<i class="fa-brands fa-youtube"></i>
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 [![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 
