@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> Find me Here too:  
 
 
-[![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 [![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayazhankad/)](https://www.linkedin.com/in/ayazhankad/)
 <a href="https://www.youtube.com/channel/UC9SnJoAITiY89RGigVYTw3g"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="78">
+[![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> A little more about me...   
 
