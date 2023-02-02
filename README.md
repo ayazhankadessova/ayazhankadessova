@@ -25,15 +25,11 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Aya = {
   pronouns: "she" | "her",
   code: [Java, Python, HTML, CSS, Javascript],
-<!--   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker], -->
-<!--   architecture: ["microservices", "event-driven", "design system pattern"], -->
   techCommunities: {
-                        Peer Mentor: "HKBI",
-<!--                         speaker: "Latinity",
-                        mentor: "EducaTRANSforma" -->
+                        Peer Mentor: "HKBU"             
                       },
  challenge: "I am doing the #100DaysOfCode challenge"
 }
