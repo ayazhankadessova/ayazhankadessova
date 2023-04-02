@@ -36,7 +36,7 @@ const Aya = {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
- challenge: "I am doing the #30DaysOfCode challenge. Yes, again!"
+ challenge: "Algorithms & DBMS for uni. It is April hehe :) "
 }
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
