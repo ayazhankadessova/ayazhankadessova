@@ -36,7 +36,7 @@ const Aya = {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
- challenge: "Almost done with finals :) "
+ challenge: "Algos w/ Python :) "
 }
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
