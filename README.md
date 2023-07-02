@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 const Aya = {
   from: "Kazakhstan🇰🇿",
   pronouns: "she" | "her",
-  code: [Java, Python, HTML, CSS, Javascript],
+  code: [Java, Python, React, HTML, CSS, Javascript],
   techCommunities: {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
