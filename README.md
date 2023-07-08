@@ -32,7 +32,10 @@ const Aya = {
   from: "Kazakhstan🇰🇿",
   pronouns: "she" | "her",
   code: [Java, Python, React, HTML, CSS, Javascript],
+  SRE: [Terraform, Dynatrace, Jenkins, Jules],
+  cloud: [AWS, Azure],
   techCommunities: {
+                        Lead: "HKBU Google Developer Student Club",
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
