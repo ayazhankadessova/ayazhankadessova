@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 const Aya = {
   from: "Kazakhstan🇰🇿",
   pronouns: "she" | "her",
-  code: [Java, Python, React, HTML, CSS, Javascript],
+  code: [Java, Python, HTML, CSS, Javascript],
+  FavFrameworks: [Vue.js, Express.js, React],
   SRE: [Terraform, Dynatrace, Jenkins, Jules],
   cloud: [AWS, Azure],
   techCommunities: {
@@ -39,7 +40,7 @@ const Aya = {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
- challenge: "Algos w/ Python & Learning React :) "
+ challenge: " 5 CS courses this semester. That's a challenge, haha. "
 }
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
