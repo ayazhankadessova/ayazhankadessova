@@ -40,7 +40,7 @@ const Aya = {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
- challenge: " 5 CS courses this semester. That's a challenge, haha. "
+ challenge: "Learning Mobile Dev w/ Android Studio in my free time (rarely, but anyway:))."
 }
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
