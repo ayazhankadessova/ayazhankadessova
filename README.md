@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 const Aya = {
   from: "Kazakhstan🇰🇿",
   pronouns: "she" | "her",
-  code: [Java, Kotlin, Python, HTML, CSS, Javascript],
-  FavFrameworks: [Vue.js, Express.js, React],
+  code: [Javascript, Java, Kotlin, Python, HTML, CSS],
+  FavFrameworks: [React, Redux, Vue.js, Express.js],
   SRE: [Terraform, Dynatrace, Jenkins, Jules],
   cloud: [AWS, Azure],
   techCommunities: {
@@ -40,7 +40,7 @@ const Aya = {
                         Peer Mentor: "HKBU", 
                         Member: "Rewriting The Code"
                       },
- challenge: "Learning Mobile Dev w/ Android Studio."
+ challenge: "Improving my frontend skills with React + Redux."
 }
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
