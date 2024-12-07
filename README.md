@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UC9SnJoAITiY89RGigVYTw3g"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="78">
 [![GitHub Ayazhankadessova](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/ayazhankadessova)
 
+
+### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> My Stats, Scanned by Gitroll: https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73
+
+<a href="https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2uGQiudat3W7FBMvYOySsjD0Nv73?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> A little more about me...   
 
 ```javascript
@@ -45,8 +50,6 @@ const Aya = {
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
 
-#### My Stats, Scanned by Gitroll: https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73
 
-<a href="https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2uGQiudat3W7FBMvYOySsjD0Nv73?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 
