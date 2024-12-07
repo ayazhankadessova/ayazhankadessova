@@ -45,4 +45,8 @@ const Aya = {
 ```
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
 
+#### My Stats, Scanned by Gitroll: https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73
+
+<a href="https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2uGQiudat3W7FBMvYOySsjD0Nv73?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+
 
