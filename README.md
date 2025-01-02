@@ -35,7 +35,7 @@ const Aya = {
 
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> My Stats, Scanned by Gitroll: https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73
 
-<a href="https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2uGQiudat3W7FBMvYOySsjD0Nv73?theme=tokyoNight" alt="GitRoll Profile Badge" width="600"/></a>
+<a href="https://gitroll.io/profile/u2uGQiudat3W7FBMvYOySsjD0Nv73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2uGQiudat3W7FBMvYOySsjD0Nv73?theme=kawaiiCat" alt="GitRoll Profile Badge" width="600"/></a>
 
 
 
