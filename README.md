@@ -3,7 +3,7 @@
 <h2> Hi, I'm Ayazhan! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width=250>
-<p><em>CS Grad at <a href="https://www.comp.hkbu.edu.hk/v1/">Hong Kong Baptist University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<p><em>Graduate Researcher at <a href="https://www.kaust.edu.sa/en/">King Abdullah University of Science and Technology (KAUST)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CS Grad from <a href="https://www.comp.hkbu.edu.hk/v1/">Hong Kong Baptist University</a></br></em></p>
 
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: kadessovaayazhan@gmail.com
 
